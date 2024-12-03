@@ -29,4 +29,4 @@ escritor.ferramenta = maquina # setando o valor de outro objeto nesse atributo
 
 print(caneta.escrever())
 print(maquina.escrever())
-print(escritor.ferramenta.escrever())
+print(escritor.nome, escritor.ferramenta.escrever())

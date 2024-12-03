@@ -5,6 +5,10 @@
 #   -> sub class, child class, derived class
 # class MinhaString(str):
 
+
+# SUPER SERVE PARA NÃO SOBRESCREVER AS COISAS
+# RETORNA A CLASSE SUPER TEMPORARIAMENTE
+
 class A:
     atributo_A = "A"
 

@@ -22,7 +22,12 @@ class Endereco:
 pessoa1 = Pessoa("Joao")
 
 pessoa1.inserir_endereco("Av. Brasil", 123)
+pessoa1.inserir_endereco("jardim bangu", 3)
 
+# end1 = Endereco("asd", 1)
+# end2 = Endereco("aada", 2)
+
+# pessoa1.inserir_endereco(end1.rua, end1.numero)
 pessoa1.listar_enderecos()
 
         

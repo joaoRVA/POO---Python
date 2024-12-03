@@ -1,6 +1,8 @@
 # Herança simples - Relações entre classes
-# Associação - usa, Agregação - tem
-# Composição - É dono de, Herança - É um
+# Associação - usa
+# Agregação - tem
+# Composição - É dono de
+# Herança - É um
 #
 # Herança vs Composição
 #
